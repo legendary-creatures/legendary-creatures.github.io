@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-creature-js","path":"/ru/creatures/contact","result":{"errors":[{"message":"Cannot return null for non-nullable field Frontmatter.plural.","locations":[{"line":6,"column":7}],"path":["markdownRemark","frontmatter","plural"]}],"data":{"markdownRemark":null},"pageContext":{"locale":"ru","title":""}}}
