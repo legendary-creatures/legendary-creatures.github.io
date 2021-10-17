@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-404-js","path":"/ru/404/","result":{"pageContext":{"language":{"name":"Русский","code":"ru","path":"/ru","dateFormat":"DD.MM.YYYY"},"locale":"ru","dateFormat":"DD.MM.YYYY","limit":6}},"staticQueryHashes":["1490670501","1490670501","45326706"]}
+{
+    "componentChunkName": "component---src-pages-404-js",
+    "path": "/ru/404/",
+    "result": {"pageContext":{"language":{"name":"Русский","code":"ru","path":"/ru","dateFormat":"DD.MM.YYYY"},"locale":"ru","dateFormat":"DD.MM.YYYY","limit":6}},
+    "staticQueryHashes": ["1490670501","45326706"]}
