@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-creatures-js",
+    "path": "/ru/search/внешность/зелёныеволосы",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Мавка","description":"Лесная русалка","image":"..\\static\\assets\\images\\goddess-5025497_1920.jpg","date":"04.06.2020"},"fields":{"locale":"ru","slug":"мавка"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":0,"language":{"name":"Русский","code":"ru","path":"/ru","dateFormat":"DD.MM.YYYY"},"locale":"ru","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"appearance":"зелёные волосы"}},
+    "staticQueryHashes": ["3357957116","3546315936","45326706"]}

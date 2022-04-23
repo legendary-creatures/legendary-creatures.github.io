@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-creatures-js",
-    "path": "/ru/поиск/происхождение/греция",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Дриада","description":"Древесный дух","image":"..\\static\\assets\\images\\Pan_e_amadriade,_collez._farnese,_27708.jpg","date":"02.02.2020"},"fields":{"locale":"ru","slug":"дриада"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":0,"language":{"name":"Русский","code":"ru","path":"/ru","dateFormat":"DD.MM.YYYY"},"locale":"ru","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"origin":"Греция"}},
-    "staticQueryHashes": ["1490670501","3546315936","45326706"]}

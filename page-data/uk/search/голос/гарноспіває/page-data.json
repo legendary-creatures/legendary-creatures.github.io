@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-creatures-js",
+    "path": "/uk/search/голос/гарноспіває",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Полудниця","description":"Польовий дух, що з’являється в полудень","image":"..\\static\\assets\\images\\nature-5255727_1920.jpg","date":"04.06.2020"},"fields":{"locale":"uk","slug":"полудниця"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":0,"language":{"name":"Українська","code":"uk","path":"/uk","dateFormat":"DD.MM.YYYY"},"locale":"uk","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"voice":"гарно співає"}},
+    "staticQueryHashes": ["3357957116","3546315936","45326706"]}

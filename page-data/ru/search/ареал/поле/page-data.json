@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-creatures-js",
+    "path": "/ru/search/ареал/поле",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Полудница","description":"Полевой дух, що появляется в полдень","image":"..\\static\\assets\\images\\nature-5255727_1920.jpg","date":"04.06.2020"},"fields":{"locale":"ru","slug":"полудница"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":0,"language":{"name":"Русский","code":"ru","path":"/ru","dateFormat":"DD.MM.YYYY"},"locale":"ru","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"habitat":"поле"}},
+    "staticQueryHashes": ["3357957116","3546315936","45326706"]}

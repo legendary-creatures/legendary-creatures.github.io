@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-search-js",
+    "path": "/search/",
+    "result": {"pageContext":{"language":{"name":"English","code":"en","path":"","dateFormat":"DD/MM/YYYY"},"locale":"en","dateFormat":"DD/MM/YYYY","limit":6}},
+    "staticQueryHashes": ["3357957116","45326706"]}
