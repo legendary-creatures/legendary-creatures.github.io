@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-templates-creatures-js",
     "path": "/uk/search/походження/україна/1",
     "result": {"data":{"allMarkdownRemark":{"edges":[]}},"pageContext":{"limit":6,"skip":6,"numPages":2,"currentPage":1,"language":{"name":"Українська","code":"uk","path":"/uk","dateFormat":"DD.MM.YYYY"},"locale":"uk","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"origin":"Україна"}},
-    "staticQueryHashes": ["3357957116","3546315936","45326706"]}
+    "staticQueryHashes": ["2888935401","3546315936","45326706"]}

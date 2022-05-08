@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-templates-creatures-js",
     "path": "/uk/search/іпостасі/дід",
     "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Домовик","description":"Дух чи дрібне божество, хранитель оселі","image":"","date":"04.06.2020"},"fields":{"locale":"uk","slug":"домовик"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":0,"language":{"name":"Українська","code":"uk","path":"/uk","dateFormat":"DD.MM.YYYY"},"locale":"uk","dateFormat":"DD.MM.YYYY","localizedLinks":{"en":{"title":"Tags","path":"/tags"},"ru":{"title":"Метки","path":"/метки"},"uk":{"title":"Мітки","path":"/мітки"},"type":"menu"},"shapeshifting":"дід"}},
-    "staticQueryHashes": ["3357957116","3546315936","45326706"]}
+    "staticQueryHashes": ["2888935401","3546315936","45326706"]}
