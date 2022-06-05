@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-search-js",
-    "path": "/uk/search/",
-    "result": {"pageContext":{"language":{"name":"Українська","code":"uk","path":"/uk","dateFormat":"DD.MM.YYYY"},"locale":"uk","dateFormat":"DD.MM.YYYY","limit":6}},
-    "staticQueryHashes": ["2888935401","45326706"]}
+{"componentChunkName":"component---src-pages-search-js","path":"/uk/search/","result":{"pageContext":{"language":{"name":"Українська","code":"uk","path":"/uk","dateFormat":"DD.MM.YYYY"},"locale":"uk","dateFormat":"DD.MM.YYYY","limit":6}},"staticQueryHashes":["2888935401","45326706"]}
